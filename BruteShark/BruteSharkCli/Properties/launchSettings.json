@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "BruteSharkCli": {
+      "commandName": "Project",
+      "commandLineArgs": " -l Wi-Fi -m Credentials,NetworkMap,FileExtracting,DNS -o C:\\Users\\King\\Desktop\\Test Export"
+    },
+    "No Parameters": {
+      "commandName": "Project",
+      "commandLineArgs": "--help"
+    }
+  }
+}
